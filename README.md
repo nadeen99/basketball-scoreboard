@@ -1,1 +1,2 @@
-# Basketball score traker using JavaScipt
+# Basketball scoreboard tracker
+ using JavaScipt
